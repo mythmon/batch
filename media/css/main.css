@@ -1,0 +1,12 @@
+canvas {
+  display: block;
+  margin: 10px;
+}
+
+.instruction {
+  list-style: disc;
+}
+.instruction.current {
+  font-weight: bold;
+  list-style: circle;
+}
